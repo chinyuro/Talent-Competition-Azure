@@ -1,0 +1,20 @@
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Common\bin\Release\netcoreapp2.0\Talent.Common.deps.json
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Common\bin\Release\netcoreapp2.0\Talent.Common.dll
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Common\bin\Release\netcoreapp2.0\Talent.Common.pdb
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.csproj.AssemblyReference.cache
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.AssemblyInfoInputs.cache
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.AssemblyInfo.cs
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.csproj.CoreCompileInputs.cache
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.dll
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.pdb
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Common\bin\Release\netcoreapp2.0\Talent.Common.deps.json
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Common\bin\Release\netcoreapp2.0\Talent.Common.dll
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Common\bin\Release\netcoreapp2.0\Talent.Common.pdb
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.csproj.AssemblyReference.cache
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.AssemblyInfoInputs.cache
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.AssemblyInfo.cs
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.csproj.CoreCompileInputs.cache
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.dll
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.pdb

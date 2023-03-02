@@ -1,0 +1,50 @@
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Services.Profile.deps.json
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Services.Profile.runtimeconfig.json
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Services.Profile.runtimeconfig.dev.json
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\bin\Release\netcoreapp2.0\appsettings.docker.Development.json
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\bin\Release\netcoreapp2.0\appsettings.docker.json
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\bin\Release\netcoreapp2.0\appsettings.Development.json
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\bin\Release\netcoreapp2.0\appsettings.json
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Services.Talent.deps.json
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Services.Talent.runtimeconfig.json
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Services.Talent.runtimeconfig.dev.json
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Services.Talent.dll
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Services.Talent.pdb
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Common.dll
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Services.Profile.dll
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Common.pdb
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Services.Profile.pdb
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\obj\Release\netcoreapp2.0\Talent.Services.Listings.csproj.AssemblyReference.cache
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\obj\Release\netcoreapp2.0\Talent.Services.Listings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\obj\Release\netcoreapp2.0\Talent.Services.Listings.AssemblyInfoInputs.cache
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\obj\Release\netcoreapp2.0\Talent.Services.Listings.AssemblyInfo.cs
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\obj\Release\netcoreapp2.0\Talent.Services.Listings.csproj.CoreCompileInputs.cache
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\obj\Release\netcoreapp2.0\Talent.Services.Listings.csproj.CopyComplete
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\obj\Release\netcoreapp2.0\Talent.Services.Talent.dll
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\obj\Release\netcoreapp2.0\Talent.Services.Talent.pdb
+C:\Users\65871\Desktop\competitionTask-competitionTask1\competitionTask-competitionTask1\Talent.Services.Listing\obj\Release\netcoreapp2.0\Talent.Services.Listings.genruntimeconfig.cache
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\bin\Release\netcoreapp2.0\appsettings.docker.Development.json
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\bin\Release\netcoreapp2.0\appsettings.docker.json
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\bin\Release\netcoreapp2.0\appsettings.Development.json
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\bin\Release\netcoreapp2.0\appsettings.json
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Services.Profile.deps.json
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Services.Profile.runtimeconfig.json
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Services.Profile.runtimeconfig.dev.json
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Services.Talent.deps.json
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Services.Talent.runtimeconfig.json
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Services.Talent.runtimeconfig.dev.json
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Services.Talent.dll
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Services.Talent.pdb
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Common.dll
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Services.Profile.dll
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Common.pdb
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\bin\Release\netcoreapp2.0\Talent.Services.Profile.pdb
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\obj\Release\netcoreapp2.0\Talent.Services.Listings.csproj.AssemblyReference.cache
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\obj\Release\netcoreapp2.0\Talent.Services.Listings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\obj\Release\netcoreapp2.0\Talent.Services.Listings.AssemblyInfoInputs.cache
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\obj\Release\netcoreapp2.0\Talent.Services.Listings.AssemblyInfo.cs
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\obj\Release\netcoreapp2.0\Talent.Services.Listings.csproj.CoreCompileInputs.cache
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\obj\Release\netcoreapp2.0\Talent.Services.Listings.csproj.CopyComplete
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\obj\Release\netcoreapp2.0\Talent.Services.Talent.dll
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\obj\Release\netcoreapp2.0\Talent.Services.Talent.pdb
+C:\Users\65871\Desktop\Talent-Competition chinyuroyuro\TalentCompetition chinyuroyuro\Talent.Services.Listing\obj\Release\netcoreapp2.0\Talent.Services.Listings.genruntimeconfig.cache

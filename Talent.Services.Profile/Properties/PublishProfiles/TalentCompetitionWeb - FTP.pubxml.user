@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAhVxLurFDSUSSOI9vfF444wAAAAACAAAAAAAQZgAAAAEAACAAAABcEGNzBnT7c0uMeQXyt35z/DPH8feVQ/bvthTRLOnZSwAAAAAOgAAAAAIAACAAAADS3+AKAfksj2StnbeCUOZX0p7Ba23VlfRTDLG+A3O2yIAAAACh/f1mgBuriAikYgxHpo9hsBdyNsGXhfS5fh7OHKK9xf/J4brOZTIQ1p6q2GSc58uP8zNqB+Wxr8drhtKoSel3M1yf2P+2ts8TcckS+SAzBj5FJaCfrfflV2ArpJI+bugNZ5worFqlI1pjOR/lZRwgNSxLdLbtm5PFKemAXw8r/kAAAAAQMBpncmceaXYdi5aJt9kbBODGHTEHp13fDuK0rs/KFSzeUr0Oq0UMvSU4lXdcPJ1j0YdlaIhz/RT/o24v551Q</EncryptedPassword>
+    <History>False|2023-02-17T04:14:37.4047564Z;</History>
+    <LastFailureDetails />
+    <_PublishTargetUrl>ftps://waws-prod-blu-225.ftp.azurewebsites.windows.net/site/wwwroot/app3</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
